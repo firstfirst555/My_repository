@@ -1,3 +1,3 @@
 <?
-Helo World
+echo Hello World
 ?>
